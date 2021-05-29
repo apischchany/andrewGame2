@@ -35,7 +35,7 @@ addLevel ([
 
 const player = add([
   sprite('space-ship'),
-  pos(width() / 3, height() / 1.1),
+  pos(width() / 4, height() / 1.1),
   origin('center')
 ])
 
